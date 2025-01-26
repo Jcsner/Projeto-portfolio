@@ -1,0 +1,17 @@
+body{
+    background-color: #D3AA41;
+    color: #4B3C17;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a{
+    color: black;
+    background-color: #22D4FD;
+    display: inline-block;
+    padding: 25px 25px 25px 25px;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+strong{
+    color: #F6F6F6;
+}
